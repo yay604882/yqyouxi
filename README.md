@@ -1,7 +1,7 @@
 # 易趣游戏
 
 
-<font color=#00CED1	 size=18 face="微软雅黑">简单，有趣，轻松，明快，绝对让你欲罢不能。</font>
+<font color=#00CED1	 size=18 face="微软雅黑">简单又有趣，轻松又明快，玩法多样化，绝对让你欲罢不能。</font>
 
 
 ![image](https://github.com/yay604882/zhizhuzhipai/blob/master/zhizhu.jpg)
